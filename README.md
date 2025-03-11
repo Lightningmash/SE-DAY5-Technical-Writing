@@ -116,11 +116,11 @@ Example: “Ideal for retail stores, online shops, and service-based businesses 
 
 
 12. How can you succinctly convey the purpose and key features of a product?
-1. Start with a Clear and Brief Purpose Statement:
+a. Start with a Clear and Brief Purpose Statement:
 Purpose: Describe the core goal of the product in a single sentence.
 Keep it short, focusing on what problem the product solves and the primary value it provides to the user.
 Example: "FlutterCash is a fast, secure payment solution that enables businesses to process payments instantly and customers to make hassle-free transactions."
-2. Highlight the Most Important Features: Key Features: List 3-5 key functionalities that set the product apart.
+b. Highlight the Most Important Features: Key Features: List 3-5 key functionalities that set the product apart.
 Be specific but concise, using bullet points for easy readability.
 Example:
 Instant bank transfers
@@ -128,10 +128,10 @@ Multi-currency support
 Easy integration for businesses
 Built-in fraud protection
 Support for credit cards and digital wallets
-3. Use Actionable Language: Use action verbs and benefit-oriented language to communicate the product's value quickly and effectively.
+c. Use Actionable Language: Use action verbs and benefit-oriented language to communicate the product's value quickly and effectively.
 Example: “Process payments instantly,” “Protect transactions with advanced encryption,” “Accept payments globally.”
-4. Focus on the Target Audience: Tailor the purpose and features to the needs of your specific audience. This makes it clear why the product matters to them.
+d. Focus on the Target Audience: Tailor the purpose and features to the needs of your specific audience. This makes it clear why the product matters to them.
 Example: “Ideal for small businesses looking for an affordable, easy-to-use payment solution.”
-5. Keep it Simple and Focused: Avoid jargon or overly technical language that could confuse or overwhelm the reader.
+e. Keep it Simple and Focused: Avoid jargon or overly technical language that could confuse or overwhelm the reader.
 Stick to the core benefits and essential features without diving into technical details.
 Example: “Accept payments online and in-store, with low fees and high security.”
